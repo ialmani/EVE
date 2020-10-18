@@ -10,7 +10,7 @@
   * The user sign in shall require the email and password that was set when creating an account.
   * The web application shall detect whether the user is a Member or a Sponsor.
 
-* **FR7->BR6** There shall be an Admin sign in page that requires email and password.
+* **FR6->BR6** There shall be an Admin sign in page that requires email and password.
   * The Admin shall have access to approve blogs and videos posted by Sponsors.
   * The Admin shall be able to delete comments from uploaded blogs or videos. 
   
@@ -25,7 +25,7 @@
   * Sponsor accounts shall have packages to choose from that will support the website through advertising their services and publishing blogs and videos.
   * Any video or blog uploaded by sponsors need approval from admin.
   
-* **FR8->BR6** The web application shall have and Ask Eve assistant for any questions/inquiries.
+* **FR7->BR6** The web application shall have and Ask Eve assistant for any questions/inquiries.
   * Questions/inquiries will be answered as soon as possible within 24 hours by EVE staff.
 
 ###LOW
