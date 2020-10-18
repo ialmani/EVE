@@ -29,9 +29,9 @@
   * Questions/inquiries will be answered as soon as possible within 24 hours by EVE staff.
 
 ###LOW
-* **FR9->BR3** The web application shall contain a map for businesses locations.
+* **FR8->BR3** The web application shall contain a map for businesses locations.
 
-* **FR10->BR1** The web application shall have Zoom and webEx connections for live chat and webinars.
+* **FR9->BR1** The web application shall have Zoom and webEx connections for live chat and webinars.
 
 # Non-Functional Requirements
 
