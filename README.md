@@ -26,7 +26,7 @@ Amina Pierson
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Mentor meeting minutes](MeetingMinutes/Mentor)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
-- [Project Management] (https://github.com/ialmani/EVE/projects/2)
+- [Project Management](https://github.com/ialmani/EVE/projects/2)
 - ... any other documents/links you see need
 
 ## **Code Repositories**
