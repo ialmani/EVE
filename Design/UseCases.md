@@ -8,6 +8,7 @@
 ### Admin
 * Can manage content on EVE and can approve sponsor packages and posts
 
+## Use Cases
 
 ### UC1: Sign up by making an account
 * This is a use case because it describes how the user will make an account. This use case applies when the user clicks on the signup button to create an account and enters their information. 
