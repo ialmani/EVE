@@ -1,6 +1,6 @@
 # Functional Requirements
 
-###HIGH
+### HIGH
 * **FR1->BR1** The EVE business deliverable will be a website.
 
 * **FR2->BR2** The web application shall have a user sign-up option to register as a member or sponsor.
@@ -14,7 +14,7 @@
   * The Admin shall have access to approve blogs and videos posted by Sponsors.
   * The Admin shall be able to delete comments from uploaded blogs or videos. 
   
-###MEDIUM
+### MEDIUM
 
 * **FR4->BR2** The web application shall have Member sign-up specifications
   * The member sign-up can sign up either with their business or personal information.
@@ -28,23 +28,23 @@
 * **FR7->BR6** The web application shall have and Ask Eve assistant for any questions/inquiries.
   * Questions/inquiries will be answered as soon as possible within 24 hours by EVE staff.
 
-###LOW
+### LOW
 * **FR8->BR3** The web application shall contain a map for businesses locations.
 
 * **FR9->BR1** The web application shall have Zoom and webEx connections for live chat and webinars.
 
 # Non-Functional Requirements
 
-###HIGH
+### HIGH
 * **NFR1->BR5** The website should be based on a virtual building workspace.
 * **NFR5->BR1,BR5** Website should be accessible on mobile devices and laptops/computers.
 * **NFR7->BR2** The Member shall not need a package to view videos.
-###MEDIUM
+### MEDIUM
 * **NFR2->BR5** The website should be intuitive. 
 * **NFR3->BR5** The website should be interactive 
 * **NFR4->BR5** The website should be user-friendly.
 
-###LOW
+### LOW
 * **NFR6->BR1** The website's database should be scalable.
   
 
