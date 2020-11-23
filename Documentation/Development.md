@@ -57,3 +57,15 @@ This will start the server and is ready for use.
 To stop the server: 
 
 - CRTL+BREAK 
+
+### Folder Structure
+
+##### Frontend
+
+All the front end components are in the src code directory
+
+Each component has folders consisting of Javascript and styling files
+
+##### Backend
+
+Each application has its own directory, with its own models views and URLs
