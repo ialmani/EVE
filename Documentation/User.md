@@ -1,6 +1,5 @@
-### User manual for your end users that shows how to use the various features of your software.
-### Assume your software is available to the end-user in some form through a URL or installation of the binary.
-### A regular user should be able to use the features of your running project by just following this document.
+# User Guide
+
 ### Installation
 Installation requires you to follow the documentation found at [EVE GitHub](https://github.com/ialmani/EVE/tree/master/Documentation)
 ### Getting Started as a User
