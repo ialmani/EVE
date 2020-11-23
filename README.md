@@ -1,9 +1,10 @@
 ## EVE  
 
 ## **Summary**
+Links to Frontend and Backend:
 
-[Link](https://github.com/ialmani/EVE-Front-End)
-[Link](https://github.com/ialmani/EVE-Back-End)
+[Frontend](https://github.com/ialmani/EVE-Front-End/tree/1.0.0)
+[Backend](https://github.com/ialmani/EVE-Back-End/tree/1.0.0)
 
 ## **Team Members**
 
