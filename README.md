@@ -1,4 +1,5 @@
-## EVE  
+## EVE  Iteration 2
+Check out [GitHub Projects](https://github.com/ialmani/EVE/projects/3) for iteration 2 design detatils
 
 ## **Summary**
 Links to Frontend and Backend:
@@ -15,6 +16,9 @@ Links to Frontend and Backend:
 - Mera Alfawares
 
 ## **Client Partner Information**
+Amina Pierson 
+Executive Director at Martindale Brightwood Community Development Corporation
+https://www.linkedin.com/in/amina-pierson
 
 ### *Company:*
 EVE
