@@ -1,5 +1,5 @@
 ## EVE  Iteration 2
-Check out [GitHub Projects](https://github.com/ialmani/EVE/projects/3) for iteration 2 design detatils
+Check out [GitHub Projects](https://github.com/ialmani/EVE/projects/3) for our iteration 2 project management detatils
 
 ## **Summary**
 Links to Frontend and Backend:
