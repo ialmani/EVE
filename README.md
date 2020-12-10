@@ -2,8 +2,8 @@
 Check out [GitHub Projects](https://github.com/ialmani/EVE/projects/3) for our iteration 2 project management detatils
 
 ## **Code Repositories**
-[Frontend](https://github.com/ialmani/EVE-Front-End/tree/1.0.0)
-[Backend](https://github.com/ialmani/EVE-Back-End/tree/1.0.0)
+[Frontend](https://github.com/ialmani/EVE-Front-End)
+[Backend](https://github.com/ialmani/EVE-Back-End)
 
 ## **Team Members**
 
