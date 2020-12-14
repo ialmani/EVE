@@ -20,7 +20,7 @@ Clicking the eve logo will take you straight back to the home page where you wil
 This page will tell you all about what we do and what we are about and gives a nice description of the different services that are offered.
 
 #### Resources
-This is where you will be viewing the bulk of the content available to you if you do not sign up. Once on the resources page, you can look at different topics and their associated card where you can click the headline to access a more detailed version of it.
+This is where you will be viewing the bulk of the content available to you if you do not sign up. This dropdown menu will give you the option to view articles, videos, and events that are available. Clicking on one of these links will take you to another page with more information.
 
 #### Contact Us
 This page is where you can find more information about getting in contact with EVE staff and have your questions answered by the customer service outlets.
