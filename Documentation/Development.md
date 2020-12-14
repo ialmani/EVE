@@ -27,32 +27,31 @@ In the project directory, you can run:
 - npm start
 
 Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser.
+Open http://localhost:3000 to view it in the browser (default port # is 3000 unless changed) .
 The page will reload if you make edits and save them.
 You will also see any lint errors in the console.
 
-- npm test
+In the project directory, you can also run:
 
-Launches the test runner in the interactive watch mode.
-See the section about running tests for more information.
+-npx cypress open
 
-- npm run build
-
-Builds the app for production to the build folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This runs the interactive testing environment we chose.
+Once the Cy window opens up, click on "Tests.js"
+From there, your browser will open and cypress will run through each of the tests automatically.
 
 #### Backend
 
 Making sure the virtual environment is set-up from [Deployment](https://github.com/ialmani/EVE/tree/master/Documentation/Deployment.md) 
 
-Run the command 
+Run the commands
 
+- python manage.py migrate
 - python manage.py runserver
 
 This will start the server and is ready for use.
 
 *NOTE*
--   Before you can see any articles (functionality) reflected in the frontend, you must go to the Django server that appears in the terminal and then appen
+-   Before you can see any articles (functionality) reflected in the frontend, you must go to the Django server that appears in the terminal and then create them there
 
 To stop the server: 
 

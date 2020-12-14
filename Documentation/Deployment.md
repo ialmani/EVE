@@ -29,7 +29,7 @@ Setting up Virtual Environment
 
 ##### Windows:
 From the directory:
-..\EVE-Project-Folder\EVE-Back-End>
+..\EVE_Project_Folder\EVE-Back-End>
 
 Run the command
 - py -m venv EVE-Virtualenv
@@ -40,9 +40,12 @@ Navigate to the scripts folder in the newly created
 
 Run the command
 - activate.bat
+
+Your virtual environment is ready
+
 ##### Mac:
 From the directory:
-..\EVE-Project-Folder\EVE-Back-End>
+..\EVE_Project_Folder\EVE-Back-End>
 
 Run the command
 - virtualenv env -p python3
@@ -56,25 +59,21 @@ Your virtual environment is ready
 Making sure your virtual environment is on:
 
 Next navigate to the following folder:
-- \EVE-Project-Folder\EVE-Back-End>
+- \EVE-Project-Folder\EVE-Back-End\api>
 
 Run the command
-- py -m pip install django
-
-Run the command
-- pip install djangorestframework
-
-Run the command
-- pip install django-cors-headers
+- pip install -r requirements.txt
 
 ### Starting the Django Server
 Navigate to the following directory:
-- \EVE-Project-Folder\EVE-Back-End\eve_backend>
+- \EVE-Project-Folder\EVE-Back-End\api>
 
-Run the following command
+Run the following commands
+- python manage.py migrate
+
 - python manage.py runserver
 
-It will tell you the URL of the server that you can then put into a browser if you wanted
+It will tell you the URL of the server that you can then put into a browser
 
 ### Stopping the Django Server
 To quit the server, press CTRL+BREAK or CTRL+C on your keyboard
@@ -97,14 +96,14 @@ macOS permissions
 - Node.js & npm [Download](https://nodejs.org/en/) 
 #### Setting up node_modules package
 ##### Start
-From the “front_end” level project directory:
-- ..\EVE-Project-Folder\EVE-Front-End\front_end>
+From the top level project directory:
+- ..\EVE-Project-Folder\EVE-Front-End>
 
 Run the command
 - npm install
 
 From the “front_end” level project directory:
-- ..\EVE-Project-Folder\EVE-Front-End\front_end>
+- ..\EVE-Project-Folder\EVE-Front-End>
 
 Run the command
 - npm start
@@ -117,5 +116,4 @@ CTRL+C will prompt you to terminate the batch job
 - The only source of an error will be in the terminal.
 
 ### Most critical/vulnerable pieces that can fail
-
 Import statements and dependencies are the most crucial part of the system currently.
