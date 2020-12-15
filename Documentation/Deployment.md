@@ -71,6 +71,8 @@ Navigate to the following directory:
 Run the following commands
 - python manage.py migrate
 
+- python manage.py createsuperuser
+
 - python manage.py runserver
 
 It will tell you the URL of the server that you can then put into a browser 
