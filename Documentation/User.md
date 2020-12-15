@@ -7,12 +7,30 @@ This is the EVE site home page.
 
 This is where you can get started browsing and learning about how to progress your knowledge and understanding of the business field you are interested in. 
 
-If you look at the navigation bar at the top of the website, you will find all of the tools you will need to get started using the website. This includes the EVE logo, about, resources, contact us, and signup functions.
+If you look at the navigation bar at the top of the website, you will find all of the tools you will need to get started using the website. This includes the EVE logo, about, resources, contact us, login, and signup functions.
 
-The main page button labeled “Get Started” will take you straight to sign up if you would like to create an account.
 
-#### Sign up: ![first_step](/Documentation/first_step.png)
-This is where you can learn more detailed information about becoming a member or sponsor. Member Sign up has the basic sign up options: Name, Email, password, confirm password. While sponsor sign up requires the same information, plus more infomation pertaining to their business.
+#### Sign up: 
+To sign up, follow the Sign Up button in the navigation bar at the top of the home page.
+![first_step](/Documentation/first_step.png)
+Enter a username and password, as well as, a valid email. Make sure your password is at least 8 characters and has at least one number. 
+![second_step](/Documentation/second_step.png)
+
+#### Create a new Article: 
+Once you have signed up, you will be redirected to the user profile. Here you can select the Add Article (+Article) button to post an article. 
+![third_step](/Documentation/third_step.png)
+You will be redirected to the following page. Input your article's information and content, then hit Submit.
+![fourth_step](/Documentation/fourth_step.png)
 
 #### Sign in:
-This is where you will go once you create an account. It will take you to your home page where you can access your profile and the content you want to view. If you forgot your password,or an admin for EVE, or need to sign up to get access to the site; Sign In provides these options for you to use as well.
+To sign in, use the Login button in the navigation bar at the top of the home page.
+![login_step1](/Documentation/login_step1.png)
+Then, enter your username and password and hit Login. 
+![login_step2](/Documentation/login_step2.png)
+
+#### View an Article: 
+You do not need to login or sign up to view an article, you can simply navigate to the Resources drop down in the navigation bar and select Articles.
+![sixth_step](/Documentation/sixth_step.png)
+You will be redirected to the following page. Input your article's information and content, then hit Submit.
+![final_step](/Documentation/final_step.png)
+
