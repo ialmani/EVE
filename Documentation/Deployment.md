@@ -63,6 +63,7 @@ Next navigate to the following folder:
 
 Run the command
 - pip install -r requirements.txt
+- caution: If pip isn't upgraded to max it will give you an error stopping requirements.txt installing onto your machine, it will let you know what command to run to update pip.
 
 ### Starting the Django Server
 Navigate to the following directory:
