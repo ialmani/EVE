@@ -21,7 +21,7 @@ Now you have a version of all of the code required to use the application
 ### Deployment: Back-End
 #### Current Versioning
 - Python= v3.8.3
-- Djagno= v3.1.3
+- Django= v3.1.4
 
 #### Install Prerequisites
 - Python [Download](https://www.python.org/downloads/release/python-383/)
@@ -73,7 +73,7 @@ Run the following commands
 
 - python manage.py runserver
 
-It will tell you the URL of the server that you can then put into a browser
+It will tell you the URL of the server that you can then put into a browser 
 
 ### Stopping the Django Server
 To quit the server, press CTRL+BREAK or CTRL+C on your keyboard
