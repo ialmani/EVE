@@ -33,4 +33,5 @@ You do not need to login or sign up to view an article, you can simply navigate 
 ![sixth_step](/Documentation/sixth_step.png)
 From the articles page, you can select any article that you would like to read, hit Read More and that will direct you to the full article.
 ![final_step](/Documentation/final_step.png)
+![fifth_step](/Documentation/fifth_step.png)
 
