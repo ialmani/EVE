@@ -51,7 +51,7 @@ Run the commands
 This will start the server and is ready for use.
 
 *NOTE*
--   Before you can see any articles (functionality) reflected in the frontend, you must go to the Django server that appears in the terminal and then create them there
+-   Work on the develop branch.
 
 To stop the server: 
 
