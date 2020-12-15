@@ -11,24 +11,7 @@ If you look at the navigation bar at the top of the website, you will find all o
 
 The main page button labeled “Get Started” will take you straight to sign up if you would like to create an account.
 
-### Navigation Bar Elements (Top)
-
-#### EVE Logo
-Clicking the eve logo will take you straight back to the home page where you will see all of the options once more.
-
-#### About
-This page will tell you all about what we do and what we are about and gives a nice description of the different services that are offered.
-
-#### Resources
-This is where you will be viewing the bulk of the content available to you if you do not sign up. This dropdown menu will give you the option to view articles, videos, and events that are available. Clicking on one of these links will take you to another page with more information.
-
-#### Contact Us
-This page is where you can find more information about getting in contact with EVE staff and have your questions answered by the customer service outlets.
-
-#### Sponsor Packages
-Clicking this link will take you to the page that displays all the different packages available to prospective sponsors.
-
-#### Sign up:
+#### Sign up: ![first_step](/Documentation/first_step.png)
 This is where you can learn more detailed information about becoming a member or sponsor. Member Sign up has the basic sign up options: Name, Email, password, confirm password. While sponsor sign up requires the same information, plus more infomation pertaining to their business.
 
 #### Sign in:
