@@ -31,6 +31,6 @@ Then, enter your username and password and hit Login.
 #### View an Article: 
 You do not need to login or sign up to view an article, you can simply navigate to the Resources drop down in the navigation bar and select Articles.
 ![sixth_step](/Documentation/sixth_step.png)
-You will be redirected to the following page. Input your article's information and content, then hit Submit.
+From the articles page, you can select any article that you would like to read, hit Read More and that will direct you to the full article.
 ![final_step](/Documentation/final_step.png)
 
