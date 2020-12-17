@@ -1,5 +1,5 @@
-## EVE  Iteration 2
-Check out [GitHub Projects](https://github.com/ialmani/EVE/projects/3) for our iteration 2 project management detatils
+## EVE  Iteration 3
+Check out [GitHub Projects](https://github.com/ialmani/EVE/projects/4) for our iteration 3 project management detatils
 
 ## **Code Repositories**
 [Frontend](https://github.com/ialmani/EVE-Front-End)
