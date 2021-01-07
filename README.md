@@ -1,35 +1,34 @@
-## EVE  Iteration 3
-Check out [GitHub Projects](https://github.com/ialmani/EVE/projects/4) for our iteration 3 project management detatils
+# **EVE  Iteration 3**
+___
 
-## **Code Repositories**
-[Frontend](https://github.com/ialmani/EVE-Front-End)
-[Backend](https://github.com/ialmani/EVE-Back-End)
+### **Code Repositories**
+- [Front-End](https://github.com/ialmani/EVE-Front-End)
+- [Back-End](https://github.com/ialmani/EVE-Back-End)
 
-## **Team Members**
+### **Project Management**
+- [GitHub Projects](https://github.com/ialmani/EVE/projects/4) (Iteration 3)
+### **Team Members**
 
 - Austin Foster
 - Iqra Almani
 - Jamari Brown
 - Duan Rollins
 - Mera Alfawares
+---
+## **Client Partner Information:**
 
-## **Client Partner Information**
-Amina Pierson 
-Executive Director at Martindale Brightwood Community Development Corporation
-https://www.linkedin.com/in/amina-pierson
+**Amina Pierson** 
+- Executive Director at Martindale Brightwood Community Development Corporation
+- [LinkedIn](https://www.linkedin.com/in/amina-pierson)
 
-### *Company:*
-EVE
+**Company:**
+- Enterprise Virtual Exchange (**EVE**)
+___
 
-### *People:*
-Amina Pierson 
+## **Repository Links**
 
-## **Links**
-
-- [Project description](ProjectDescription.md)
-- [Team meeting minutes](MeetingMinutes/Team)
-- [Mentor meeting minutes](MeetingMinutes/Mentor)
-- [Client partner meeting minutes](MeetingMinutes/ClientPartner)
-- [Project Management](https://github.com/ialmani/EVE/projects/2)
-- ... any other documents/links you see need
-
+- [Project description](https://github.com/ialmani/EVE/blob/master/ProjectDescription.md)
+- [Team meeting minutes](https://github.com/ialmani/EVE/tree/master/MeetingMinutes/Team)
+- [Mentor meeting minutes](https://github.com/ialmani/EVE/tree/master/MeetingMinutes/Mentor)
+- [Client partner meeting minutes](https://github.com/ialmani/EVE/tree/master/MeetingMinutes/ClientPartner)
+- [Project Management](https://github.com/ialmani/EVE/projects/4)
