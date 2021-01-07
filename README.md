@@ -1,5 +1,5 @@
-# **EVE  Iteration 3**
 ___
+# **EVE  Iteration 3**
 
 ### **Code Repositories**
 - [Front-End](https://github.com/ialmani/EVE-Front-End)
@@ -14,7 +14,7 @@ ___
 - Jamari Brown
 - Duan Rollins
 - Mera Alfawares
----
+___
 ## **Client Partner Information:**
 
 **Amina Pierson** 
@@ -32,3 +32,4 @@ ___
 - [Mentor meeting minutes](https://github.com/ialmani/EVE/tree/master/MeetingMinutes/Mentor)
 - [Client partner meeting minutes](https://github.com/ialmani/EVE/tree/master/MeetingMinutes/ClientPartner)
 - [Project Management](https://github.com/ialmani/EVE/projects/4)
+___
