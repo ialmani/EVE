@@ -1,0 +1,36 @@
+# Mentor Meeting on 1/28/2021
+
+## Meeting Start Time
+
+2021/01/28/5:00
+
+## Meeting End Time
+
+2021/01/28/5:30
+
+## Location/Medium
+
+Zoom
+
+## Present
+
+Mera, Iqra, Austin, Duan, Jamari, Ben
+
+## Minute Recorder
+
+Mera
+
+## Topics Discussed
+
+During our meeting, we showed Ben how we dockerized both the frontend and backend. We also had a couple questions about docker and CI/CD that Ben clarified.
+We discussed the CI/CD process and any tools for integration and deployment that Ben would recommend. We spoke briefly about the changes that we have made so far
+and how we intend to proceed for this iteration. As discussed with Ben, we will be shifting our focus towards dockerizing, automated testing and integration, and 
+refactoring during this iteration (as opposed to functionality in the past iterations). Lastly, we mentioned the documentation and our plans for the 4th iteration cards in Git projects. 
+
+## Things Clarified
+
+Ben clarified that we could either have both the frontend and the backend in one docker container, however, recommended that we have them in separate containers. 
+He also clarified the continuous integration process in detail. We agreed that we would focus on continuous integration this iteration and continuous deployment
+in upcoming iterations. We also decided to consider GitHub Actions and Amazon ECS for our project as Ben recommended them. As for the 4th iteration discussion, we 
+agreed to have another meeting with Ben later during this iteration to discuss them in more depth as we would have a better idea of what was accomplished in the 
+3rd iteration and what still needs to be done/prioritized in the next. 
