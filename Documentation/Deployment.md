@@ -1,7 +1,9 @@
 # Deployment: How-to
 
 Download [Git Client](https://git-scm.com/downloads) for repository cloning purposes
+
 Download [Docker Desktop](https://www.docker.com/products/docker-desktop) for simple deployment (optional)
+
 Use all default settings for Git/Docker installation
 ___
 ## Set up the Project Folder Location
@@ -10,12 +12,11 @@ Create a new folder (preferably where you won't have to change permissions) whic
 Clone Required Repositories from command-line using git
 
 Open a command-line in the folder you just created, for example:
-``` C:\someuser\user\Desktop\Eve_Project_Folder> ```
+- ``` C:\someuser\user\Desktop\Eve_Project_Folder> ```
 
 Run the following "git clone" commands in this root directory one at a time:
-
-```git clone https://github.com/ialmani/EVE-Front-End```
-```git clone https://github.com/ialmani/EVE-Back-End```
+- ```git clone https://github.com/ialmani/EVE-Front-End```
+- ```git clone https://github.com/ialmani/EVE-Back-End```
 
 Now you have a version of all of the code required to use the application
 ___
@@ -26,27 +27,26 @@ ___
 
 Next you will execute the docker-compose.yml file housed in both the Front and Back End repositories, to do this:\
 
-Navigate to the EVE-Front-End folder 
-```..\EVE_Project_Folder\EVE-Front-End>```
+Navigate to the EVE-Front-End folder
+- ```..\EVE_Project_Folder\EVE-Front-End>```
 
-Run the comand
-```docker-compose up```
+Run the command
+- ```docker-compose up```
 
-Once finished the command line will open back up and you will repeat the 
+Once finished, the command line will open back up and you will repeat this for the Back End.
 
 Once more, navigate to 
-```..\EVE_Project_Folder\EVE-Back-End\api>```
+- ```..\EVE_Project_Folder\EVE-Back-End\api>```
 
-Run the comand
+Run the command
 ```docker-compose up```
 
-*NOTE*: 
-- In ```..\EVE_Project_Folder\EVE-Back-End\api>``` You must also manually create a super user by running the command 
+*NOTE*: These must be done *in addition* to Docker for the Back End to be fully functional
+- Starting in the api folder ```..\EVE_Project_Folder\EVE-Back-End\api>``` 
+- You must also manually create a super user by running the command 
 ```python manage.py createsuperuser``` 
 in order to access the Django Admin page
-
-*NOTE*: 
-- Currently you must also manually enable your [Virtual Environment](https://github.com/ialmani/EVE/blob/master/Documentation/Deployment.md#setting-up-virtual-environment) for the Back-End to work.
+- You must also manually enable your [Virtual Environment](https://github.com/ialmani/EVE/blob/master/Documentation/Deployment.md#setting-up-virtual-environment) for the Back-End to work.
 
 Now you can open Docker and look at both of the containers you just made and from there, open them in your browser.
 ___
