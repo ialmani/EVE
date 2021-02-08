@@ -4,7 +4,7 @@
 Installation requires you to follow the documentation found at [Deployment.md](https://github.com/ialmani/EVE/blob/master/Documentation/Deployment.md#deployment-how-to)
 ### Getting Started as a User
 This is the EVE site home page.
-![LandingPage](/Documentation/png/LandingPage.png)
+![LandingPage](/Documentation/png/LandingPage.PNG)
 
 This is where you can get started browsing and learning about how to progress your knowledge and understanding of the business field you are interested in. 
 
@@ -32,7 +32,7 @@ After doing so, you will be redirected to on of the following pages.
 ### Article
 ![NewArticle](/Documentation/png/NewArticle.png)
 ### Video
-![NewVideo](/Documentation/png/NewVideo.png)
+![NewVideo](/Documentation/png/NewVideo.PNG)
 
 Once finished entering all the information and it has been submitted.
 You can then view the different resources as follows.
@@ -47,11 +47,11 @@ From the resources page, you can select any content that you would like to see, 
 #### Viewing an Article:
 From the resources page
 ![Resources_Articles](/Documentation/png/Resources_Articles.png)
-![Articles](/Documentation/png/Articles.png)
-![FullArticle](/Documentation/png/FullArticle.png)
+![Articles](/Documentation/png/Articles.PNG)
+![FullArticle](/Documentation/png/FullArticle.PNG)
 
 
 #### Viewing an Video:
 From the resources page
 ![Resources_Videos](/Documentation/png/Resources_Videos.png)
-![FullVideo](/Documentation/png/Videos.png)
+![FullVideo](/Documentation/png/Videos.PNG)
