@@ -66,22 +66,12 @@ From the directory:
 ```..\EVE_Project_Folder\EVE-Back-End>```
 
 Run the command
-<<<<<<< HEAD
-```py -m venv EVE-ve```
-
-=======
 ```python -m venv EVE-ve```
->>>>>>> be8d611dd43ddf490943a66cec504d4cea155a61
 Navigate to the scripts folder in the newly created “EVE-ve" folder
 ```..\EVE-Project-Folder\EVE-Back-End\EVE-ve\Scripts>```
 
 Run the command
-<<<<<<< HEAD
-```activate.bat```
-
-=======
 ```./activate.bat```
->>>>>>> be8d611dd43ddf490943a66cec504d4cea155a61
 Your virtual environment is ready
 
 #### *Mac*
