@@ -41,7 +41,7 @@ Once more, navigate to
 Run the command
 ```docker-compose up```
 
-*NOTE*: These must be done *in addition* to Docker for the Back End to be fully functional
+*NOTE*: The following *must* be done in addition to setting up Docker for the **Back End** to be fully functional
 - Starting in the api folder ```..\EVE_Project_Folder\EVE-Back-End\api>``` 
 - You must also manually create a super user by running the command 
 ```python manage.py createsuperuser``` 
