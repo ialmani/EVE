@@ -23,7 +23,7 @@ Then, enter your username and password and click Login.
 
 #### My Profile
 After logging in, you are redirected to your profile page which you can then post videos and articles from
-![Profile](/Documentation/png/Profile.png)
+![Profile](/Documentation/png/Profile.PNG)
 
 #### Create a new Article or Video: 
 Once you have signed up, you will be redirected to the user profile. Here you can select the Add Article (+Article) button to post an article or the Add Video (+Video) button to post a video.
