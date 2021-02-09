@@ -54,5 +54,5 @@ From the resources page
 #### Viewing an Video:
 From the resources page
 ![Resources_Videos](/Documentation/png/Resources_Videos.png)
-![FullVideo](/Documentation/png/Videos.PNG)
+![FullVideo](/Documentation/png/Videos.png)
 ![WatchFullv](/Documentation/png/WatchFullv.png)
