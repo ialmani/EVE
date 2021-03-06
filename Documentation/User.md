@@ -57,6 +57,14 @@ From the resources page
 ![FullVideo](/Documentation/png/AllVideos.png)
 ![WatchFullv](/Documentation/png/WatchFullv.png)
 
+#### To add a comment on a resource
+You have to log in or sign up first
+You can add the comment from the articles page
+![addcomment] (/Documentation/png/addcomment.png)
+
+To view the comment 
+![viewcomment](/Documentation/png/viewcomment.png)
+
 #### Asking EVE for any questions:
 From the Ask EVE in the navigation bar
 ![askeve](/Documentation/png/askeve.png)
