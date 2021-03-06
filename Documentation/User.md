@@ -60,7 +60,7 @@ From the resources page
 #### To add a comment on a resource
 You have to log in or sign up first
 You can add the comment from the articles page
-![addcomment] (/Documentation/png/addcomment.png)
+![addcomment](/Documentation/png/addcomment.png)
 
 To view the comment 
 ![viewcomment](/Documentation/png/viewcomment.png)
