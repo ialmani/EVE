@@ -56,3 +56,9 @@ From the resources page
 ![Resources_Videos](/Documentation/png/Resources_Videos.png)
 ![FullVideo](/Documentation/png/AllVideos.png)
 ![WatchFullv](/Documentation/png/WatchFullv.png)
+
+#### Asking EVE for any questions:
+From the Ask EVE in the navigation bar
+![askeve](/Documentation/png/askeve.png)
+![askeve1](/Documentation/png/askeve1.png)
+
