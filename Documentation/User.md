@@ -13,8 +13,10 @@ If you look at the navigation bar at the top of the website, you will find all o
 #### Sign up: 
 To sign up, follow the Sign Up button in the navigation bar at the top of the home page.
 ![LandingPage_LS](/Documentation/png/LandingPage_LS.png)
-<br>Enter a username and password, as well as, a valid email. Make sure your password is at least 8 characters and has at least one number. 
-![second_step](/Documentation/png/SignUp.png)
+<br>Enter a username and password, as well as, a valid email. Make sure your password is at least 8 characters and has at least one number. Be sure to pick whether you want to become a member or a sponsor as well.
+![MemberSignUp](/Documentation/png/Member_SignUp.png)
+If you pick sponsor, just click the "REGISTER AS SPONSOR" tab.
+![SponsorSignUp](/Documentation/png/Sponsor_SignUp.png)
 
 #### Sign in:
 To sign in, use the Login button in the navigation bar at the top of the home page. It will take you here.
@@ -47,9 +49,11 @@ From the resources page, you can select any content that you would like to see, 
 #### Viewing an Article:
 From the resources page
 ![Resources_Articles](/Documentation/png/Resources_Articles.png)
+Then, choose an article!
 ![Articles](/Documentation/png/Articles.PNG)
+Use the Search Bar to find something specific!
+![Articles](/Documentation/png/Articles_search.PNG)
 ![FullArticle](/Documentation/png/FullArticle.PNG)
-
 
 #### Viewing an Video:
 From the resources page
@@ -59,11 +63,18 @@ From the resources page
 
 #### To add a comment on a resource
 You have to log in or sign up first
-You can add the comment from the articles page
+You can add the comment from the articles or videos page
 ![addcomment](/Documentation/png/addcomment.png)
-
-To view the comment 
+To view the comment you just have to scroll to the bottom
 ![viewcomment](/Documentation/png/viewcomment.png)
+
+#### Starting a Zoom Call:
+![Resources_LiveEvents](/Documentation/png/Resources_LiveEvents.png)
+![LiveEvents](/Documentation/png/LiveEvents.png)
+If you hover over the cards (or tap, on mobile) you can see the button to continue.
+![LiveEvents_hover](/Documentation/png/LiveEvents_hover.png)
+It will then bring you to a page when you can customize your meeting.
+![LiveEvents_Zoom](/Documentation/png/LiveEvents_Zoom.png)
 
 #### Asking EVE for any questions:
 From the Ask EVE in the navigation bar

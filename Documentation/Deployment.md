@@ -36,7 +36,7 @@ Run the command
 Once finished, the command line will open back up and you will repeat this for the Back End.
 
 Once more, navigate to 
-- ```..\EVE_Project_Folder\EVE-Back-End\api>```
+- ```..\EVE_Project_Folder\EVE-Back-End\eve-project>```
 
 Run the command
 ```docker-compose up```
