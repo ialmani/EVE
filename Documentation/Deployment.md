@@ -42,7 +42,7 @@ Run the command
 ```docker-compose up```
 
 *NOTE*: The following *must* be done in addition to setting up Docker for the **Back End** to be fully functional
-- Starting in the api folder ```..\EVE_Project_Folder\EVE-Back-End\api>``` 
+- Starting in the api folder ```..\EVE_Project_Folder\EVE-Back-End\eve-project>``` 
 - You must also manually create a super user by running the command 
 ```python manage.py createsuperuser``` 
 in order to access the Django Admin page
