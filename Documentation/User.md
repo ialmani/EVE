@@ -75,6 +75,8 @@ If you hover over the cards (or tap, on mobile) you can see the button to contin
 ![LiveEvents_hover](/Documentation/png/LiveEvents_hover.png)
 It will then bring you to a page when you can customize your meeting.
 ![LiveEvents_Zoom](/Documentation/png/LiveEvents_Zoom.png)
+It will then show up on the Live Events page.
+![LiveEvents_Zoom](/Documentation/png/LiveEvents_ZoomCards.png)
 
 #### Asking EVE for any questions:
 From the Ask EVE in the navigation bar
